@@ -45,9 +45,6 @@ Identified time and amount patterns associated with fraudulent transactions.
 Highlighted significant differences between fraud and non-fraud groups.
 
 
-### Data Analysis
-
-
 
 
 ### Results/Findings
@@ -60,3 +57,12 @@ The analysis results are summarized as follows:
 
 
 ### Recommendations
+
+1. The organization needs to focus monitoring efforts on high-value transactions and peak fraud hours, while maintaining strong data validation and customer awareness.
+   
+2. Educate customers on safe transaction practices and phishing prevention and encourage prompt reporting of suspicious transactions or unauthorized charges.
+   
+3. Conduct root-cause analyses for detected frauds to improve fraud prevention rules.
+4. Establish a fraud monitoring team or schedule periodic reviews focused on high-risk categories to cross-verify frequent transaction accounts and suspicious patterns detected during analysis.
+5. Since fraudulent activities are more frequent among high-value transactions, introducing extra authentication steps (e.g., OTP, biometric, or multi-factor verification) for high-value transactions.
+6. Since the highest fraud activity occurs around Hour 10 and 11, increase real-time transaction monitoring and automated alerts during that period.
